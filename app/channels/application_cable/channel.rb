@@ -1,5 +1,5 @@
 module ApplicationCable
   class Channel < ActionCable::Channel::Base
-    #gsldgks
+    # gsldgks
   end
 end
